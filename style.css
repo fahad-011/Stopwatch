@@ -10,6 +10,11 @@ body {
     top: 15%;
 }
 
+.wrapper {
+    padding: 70px 0;
+    text-align: center;
+  }
+
 p{
     font:  bold 2rem 'Raleway', sans-serif; /* or 2em */
     color: rgba(0, 0, 0, .5);
@@ -44,10 +49,7 @@ button{
     p{
         font-size: 1.8em;
     }
-    .wrapper {
-        padding: 70px 0;
-        text-align: center;
-      }
+
 }
 
 #button-start{
