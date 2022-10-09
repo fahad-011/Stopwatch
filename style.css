@@ -44,6 +44,10 @@ button{
     p{
         font-size: 1.8em;
     }
+    .wrapper {
+        padding: 70px 0;
+        text-align: center;
+      }
 }
 
 #button-start{
